@@ -94,4 +94,4 @@ Referência direta ao código-fonte original.
 <hr>
 
 ## Agradecimentos
-Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Gleyson Sampaio](https://github.com/glysns) por compatilhar seu conhecimento.
+Gostaria de agradecer a [DIO](https://www.dio.me/) (Digital Innovation One) e ao professor [Gleyson Sampaio](https://github.com/glysns) por compartilhar seu conhecimento.
